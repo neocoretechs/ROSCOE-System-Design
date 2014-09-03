@@ -1,10 +1,10 @@
-ROSCOE-System-Design
+ROSCOE-System-Design<br/>
 ====================
+System Design Document roscoe3.pdf.<br/> Physical and logical bus descriptions and diagrams including:
 <ul>
-System Design Document roscoe3.pdf. Physical and logical bus descriptions and diagrams including:
 <li>1) Power Bus</li>
-2) ROS Publish/subscribe bus messages and flow
-3) ROS node names and messages
-4) Physical netwrok
-5) Logical network and TCP/IP connections
+<li>2) ROS Publish/subscribe bus messages and flow</li>
+<li>3) ROS node names and messages</li>
+<li>4) Physical network</li>
+<li>5) Logical network and TCP/IP connections</li>
 </ul>
